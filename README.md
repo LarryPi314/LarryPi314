@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! 👋
+
+### I'm Larry Wang, a sophomore studying cs and math at Harvey Mudd College in Claremont, CA 🏖️
+
+### I'm interested in all things math, cs, and data-related!
+
+Reach out to me at [larwang@g.hmc.edu](mailto:larwang@g.hmc.edu) or follow [my linkedin](https://www.linkedin.com/in/larwang314/).
 
 <!--
 **LarryPi314/LarryPi314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
