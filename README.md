@@ -6,6 +6,7 @@
 
 Reach out to me at [larwang@g.hmc.edu](mailto:larwang@g.hmc.edu) or follow [my linkedin](https://www.linkedin.com/in/larwang314/).
 
+![Metrics](/github-metrics.svg)
 <!--
 **LarryPi314/LarryPi314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
