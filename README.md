@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-### I'm Larry Wang, a sophomore studying cs and math at Harvey Mudd College in Claremont, CA 🏖️
+### I'm Larry Wang, a junior studying cs and math at Harvey Mudd College in Claremont, CA 🏖️
 
 ### I'm interested in all things math, cs, and data-related!
 
